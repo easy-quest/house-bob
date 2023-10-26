@@ -7,3 +7,4 @@ django-environ==0.4.5
 psycopg2-binary==2.8.5
 redis==3.5.2
 word2number==1.1
+twisted>=23.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
